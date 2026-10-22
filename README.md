@@ -1,5 +1,5 @@
 # festus
-My first repository.
+Proffessional profile.
 ## About Me
 - Computer Science graduate from the University of Nairobi.
 - Interested in Artificial Intelligence, Machine Learning, and software development.
